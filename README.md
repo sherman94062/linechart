@@ -1,2 +1,2 @@
 # linechart
-# Simple JavaScript/React line chart
+Simple JavaScript/React line chart
